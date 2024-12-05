@@ -1,4 +1,5 @@
-ComposeTweetApp
+TweetsyComposeApp
+
 A Jetpack Compose-based Android application to display a list of categories and their associated tweets. Users can explore tweets by selecting categories, navigating through a seamless and modern UI. This project implements modern Android development best practices.
 
 Features 
