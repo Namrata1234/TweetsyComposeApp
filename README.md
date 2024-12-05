@@ -8,7 +8,6 @@ Features
 - Fetch and display tweets based on selected categories.
 - A detailed view of tweets, showing all tweet attributes.
 - MVVM architecture for separation of concerns and easy scalability.
-- Offline support using Flow for reactive streams.
 - Dependency Injection with Hilt for modular and testable code.
 - Networking powered by Retrofit with structured API calls.
 - Coroutines for managing asynchronous tasks efficiently.
